@@ -1,14 +1,14 @@
 # IBM Data Science Capstone - Coursera
 
-About this assignment
+<b>About this assignment</b>
 
-In this final Applied Data Science Capstone assignment by IBM, you will demonstrate your ability to apply data science techniques to real-world problems by analyzing data, building models, creating meaningful visualizations, and communicating insights through a professional presentation. This assignment evaluates how effectively you have understood and applied the skills developed throughout the course, including data collection, data wrangling, exploratory data analysis, machine learning, data visualization. You will design a comprehensive presentation that integrates visual elements such as charts, maps, dashboards, and analytical summaries. Your work should clearly communicate insights related to the problem domain, data patterns, model performance, and key findings derived from the dataset. 
+        In this final Applied Data Science Capstone assignment by IBM, you will demonstrate your ability to apply data science techniques to real-world problems by analyzing data, building models, creating meaningful visualizations, and communicating insights through a professional presentation. This assignment evaluates how effectively you have understood and applied the skills developed throughout the course, including data collection, data wrangling, exploratory data analysis, machine learning, data visualization. You will design a comprehensive presentation that integrates visual elements such as charts, maps, dashboards, and analytical summaries. Your work should clearly communicate insights related to the problem domain, data patterns, model performance, and key findings derived from the dataset. 
+        
+        By completing the Applied Data Science Capstone Project, you will demonstrate both technical proficiency and the ability to translate data-driven results into actionable insights for real-world decision-making scenarios. Completing this assignment validates your readiness to apply data science skills in professional environments. 
+        
+        Your submission will be auto-graded by AI using a tool called Mark.
 
-By completing the Applied Data Science Capstone Project, you will demonstrate both technical proficiency and the ability to translate data-driven results into actionable insights for real-world decision-making scenarios. Completing this assignment validates your readiness to apply data science skills in professional environments. 
-
-Your submission will be auto-graded by AI using a tool called Mark.
-
-<b>Grading Criteria<b>
+<b>Grading Criteria</b>
 
         The final assignment consists of 1 question worth 15 points. 
         
