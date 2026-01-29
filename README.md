@@ -1,41 +1,24 @@
 # IBM Data Science Capstone - Coursera
 
-Grading Criteria
+The final assignment consists of 1 question worth 15 points. 
 
-The final task of this capstone project is to create a presentation based on the outcomes of all tasks in previous modules and labs. Your presentation will develop into a story of all your data science journey in this project, and it should be compelling and easy to understand.
+You will be evaluated based on the completeness, accuracy, clarity, and presentation quality of your submission. 
 
-In the next exercise, you can find a provided PowerPoint template to help you get started. However, you are free to add additional slides, charts, and tables.
+Question 1: Upload the final PDF named Data Science Capstone Project Report (15 points) 
 
-There are a total of 40 points possible for the final assessment, and you will be graded by your peers, who are also completing this assignment.
-
-The main grading criteria will be:
-
-    Uploaded the URL of your GitHub repository including all the completed notebooks and Python files (1 pt)
-    
-    Uploaded your completed presentation in PDF format (1 pt)
-    
-    Completed the required Executive Summary slide (1 pt)
-    
-    Completed the required Introduction slide (1 pt)
-    
-    Completed the required data collection and data wrangling methodology related slides (1 pt)
-    
-    Completed the required EDA and interactive visual analytics methodology related slides (3 pts)
-    
-    Completed the required predictive analysis methodology related slides (1 pt)
-    
-    Completed the required EDA with visualization results slides (6 pts)
-    
-    Completed the required EDA with SQL results slides (10 pts)
-    
-    Completed the required interactive map with Folium results slides (3 pts)
-    
-    Completed the required Plotly Dash dashboard results slides (3 pts)
-    
-    Completed the required predictive analysis (classification) results slides (6 pts)
-    
-    Completed the required Conclusion slide (1 pts)
-    
-    Applied your creativity to improve the presentation beyond the template (1 pts)
-    
-    Displayed any innovative insights (1 pts)
+        1.1: Upload the GitHub URL of the project. (1 point) 
+        1.2: Upload the completed presentation slides in PDF format. (1 point) 
+        1.3: The Executive Summary slide clearly summarize the methods used and the key results. (1 point) 
+        1.4: The Introduction slide explains the project background and clearly states the problem. (1 point) 
+        1.5: The Data Collection – SpaceX API slide shows API calls using flowcharts or key phrases and includes the GitHub URL. (1 point) 
+        1.6: The Data Collection – Web Scraping slide explains the scraping process using flowcharts or key phrases and includes the GitHub URL. (1 point) 
+        1.7: The Data Wrangling Methodology slide explains data cleaning and processing and includes the GitHub URL. (1 point) 
+        1.8: The EDA with Data Visualization slide summarizes the charts used, explains their purpose, and includes the GitHub URL.(1 point) 
+        1.9: The EDA with SQL slide summarizes the SQL queries performed and includes the GitHub URL. (1 point) 
+        1.10: The Interactive Visual Analytics slide summarizes the Folium map and Plotly Dash app and includes the GitHub URLs. (1 point) 
+        1.11: Complete all required EDA visualization result slides, including scatter plots, bar charts, and yearly trends. (1 point) 
+        1.12: Completed all required EDA with SQL result slides, covering launch sites, payloads, success rates, rankings, and time analysis. (1 point) 
+        1.13: Complete the Folium map slides with launch site markers, launch records, and proximity analysis. (1 point) 
+        1.14: Complete the Plotly Dash slides with success pie charts and payload versus launch outcome scatter plots. (1 point) 
+        1.15: Complete the Predictive Analysis slides with multiple models, evaluation results, confusion matrix, best model explanation, and a clear conclusion with creative and innovative insights. (1 point)
+            Displayed any innovative insights (1 pts)
